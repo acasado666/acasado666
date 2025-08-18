@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋 My name is Antonio Casado
 
-<!--
-**acasado666/acasado666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer 🔹 Software Architect 🔹 Freelancer 🔹 Blogger
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack (mostly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+However, I'm also intensively exploring such topics like (among other things): \
+🔹 Apache Kafka \
+🔹 Kubernetes \
+🔹 Cloud Native Apps \
+🔹 Azure
+
+## The List of My Repositories With Topics
+
+I have more than 100 different demo repos. Here's the index with tags:
+<a href="https://github.com/acasado666/repo-index">Index</a>
+

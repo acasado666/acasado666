@@ -20,4 +20,6 @@ However, I'm also intensively exploring such topics like (among other things): \
 
 Here you can find different demo repos. Here's the index with tags:
 
-<a href="[github.com/acasado666/?tab=repositories]">Index</a>
+<a href="https://github.com/acasado666/tab=repositories">Index</a>
+
+<a href="https://github.com/acasado666/repo-index">Index</a>

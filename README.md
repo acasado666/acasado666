@@ -18,6 +18,6 @@ However, I'm also intensively exploring such topics like (among other things): \
 
 ## The List of My Repositories With Topics
 
-I have more than 100 different demo repos. Here's the index with tags:
+Here you can find different demo repos. Here's the index with tags:
 <a href="https://github.com/acasado666/repo-index">Index</a>
 

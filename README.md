@@ -9,8 +9,8 @@ Java Developer 🔹 Software Architect 🔹 Freelancer 🔹 Blogger
 ![Microservices](https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logoColor=white).
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--- [Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) --->!
-<!--- [Medium]https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=docker&logoColor=white) --->!
+<!--- [Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) --->
+<!--- [Medium]https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=docker&logoColor=white) --->
 
 
 However, I'm also intensively exploring such topics like (among other things): \

@@ -11,7 +11,6 @@ Java Developer 🔹 Software Architect 🔹 Freelancer 🔹 Blogger
 
 
 However, I'm also intensively exploring such topics like (among other things): \
-🔹 Apache Kafka \
 🔹 Kubernetes \
 🔹 Cloud Native Apps \
 🔹 Azure

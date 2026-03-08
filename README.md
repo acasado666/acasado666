@@ -25,8 +25,4 @@ Here you can find different demo repos. Here's the index with tags:
 
 TODO
 
-## My GitHub Stats
 
-<a href="https://github.com/acassado666">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=acasado666&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
-</a>

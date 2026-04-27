@@ -21,8 +21,6 @@ However, I'm also intensively exploring such topics like (among other things): \
 
 ## The List of My Repositories With Topics
 
-Here you can find different demo repos. Here's the index with tags:
 
-TODO
 
 

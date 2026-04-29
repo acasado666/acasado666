@@ -6,7 +6,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 ---
 
-## 🧭 About Me
+### 🧭 About Me
 
 - 🔭 I work mainly on **backend services**, **microservices**, and **distributed systems**.
 - ⚡ I enjoy building practical demos with **Java**, **Spring**, **Kafka**, **AI** and cloud technologies.
@@ -15,13 +15,13 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 - 🧱 I value simple designs, clear APIs, reliable systems, and maintainable code.
 
 ---
-## ⚡ Technologies
+###⚡ Technologies
 
-### Backend
+#### Backend
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 
 
-### Frontend
+#### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -32,7 +32,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
-### Architecture & Concepts
+#### Architecture & Concepts
 
 <p>
   <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logoColor=white" alt="Microservices" />
@@ -42,7 +42,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 </p>
 
-### Databases
+#### Databases
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
@@ -50,7 +50,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### Cloud, DevOps & Tools
+#### Cloud, DevOps & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />

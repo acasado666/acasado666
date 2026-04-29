@@ -15,7 +15,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 - 🧱 I value simple designs, clear APIs, reliable systems, and maintainable code.
 
 ---
-###⚡ Technologies
+### ⚡ Technologies
 <p dir="auto">Backend:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e499ce1775395946bf3956670462b95f44a74846295c8c855e1efc890ba809c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661"><img src="https://camo.githubusercontent.com/9e499ce1775395946bf3956670462b95f44a74846295c8c855e1efc890ba809c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-007396?style=flat-square&amp;logo=java" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bdc3f39c73845b95be0d7b35d47a824e1f59aa75256ad6d8da613e69af874e4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bdc3f39c73845b95be0d7b35d47a824e1f59aa75256ad6d8da613e69af874e4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" alt="Spring" data-canonical-src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" style="max-width: 100%;"></a></p>

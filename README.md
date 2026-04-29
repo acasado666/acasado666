@@ -18,11 +18,9 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 ## ⚡ Technologies
 
 ### Backend
-
-<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-</p>
+
 
 ### Frontend
 

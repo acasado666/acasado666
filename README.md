@@ -34,7 +34,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" />
@@ -47,18 +47,18 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/-Event%20Sourcing-black?style=flat-square" alt="Event Sourcing" />
   <img src="https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/-Cloud%20Patterns-black?style=flat-square" alt="Cloud Patterns" />
-  <img src="https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apachekafka" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/-Apache%20Flink-lightbluek?style=flat-square&logo=apacheflink" alt="Apache Flink" />
+  <img src="https://img.shields.io/badge/-Apache%20Kafka--1572B6?style=flat-square&logo=apachekafka" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/-Apache%20Flink-lightblue?style=flat-square&logo=apacheflink" alt="Apache Flink" />
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=tensorflow" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=scikitlearn" alt="Machine Learning" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle" alt="Oracle" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-447900?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Oracle-447911k?style=flat-square&logo=oracle" alt="Oracle" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" />
 
 </p>
 
@@ -67,13 +67,13 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 <p>
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-black?style=flat-square&logo=microsoftazure" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
   <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira" alt="JIRA" />
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-VS%20Code-2496ED?style=flat-square&logo=visualstudiocode" alt="VS Code" />
 </p>
 
 ---

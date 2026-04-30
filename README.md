@@ -36,8 +36,6 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt="Sass" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular" alt="Angular" />
 </p>
 
@@ -47,15 +45,28 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/-Event%20Sourcing-black?style=flat-square" alt="Event Sourcing" />
   <img src="https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/-Cloud%20Patterns-black?style=flat-square" alt="Cloud Patterns" />
+
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=tensorflow" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=scikitlearn" alt="Machine Learning" />
+</p>
+
+#### Frameworks
+<p>
   <img src="https://img.shields.io/badge/-Apache%20Kafka-1572B6?style=flat-square&logo=apachekafka" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/-Apache%20Flink-d9cbec?style=flat-square&logo=apacheflink" alt="Apache Flink" />
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=tensorflow" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=scikitlearn" alt="Machine Learning" />
 </p>
 
+#### AI & ML
+<p>
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=tensorflow" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=scikitlearn" alt="Machine Learning" />
+</p>
+
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-a8aab0?style=flat-square&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-Oracle-darkred?style=flat-square&logo=oracle" alt="Oracle" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
 <img src="https://camo.githubusercontent.com/46e34c08524e94c950de2660d45e732baf7d5e3a015ad57477cc6c60873e8626/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">

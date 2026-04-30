@@ -4,16 +4,79 @@
 
 I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservices**,**Kafka**, **Kubernetes**, **AI** and practical backend systems. I enjoy building clean proof-of-concepts, learning by doing, and turning software architecture ideas into working code.
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Casado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-casado-15b21673/)
+[![GitHub](https://img.shields.io/badge/GitHub-acasado666-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/acasado666)
+
 ---
 
 ### 🧭 About Me
 
 - 🔭 I work mainly on **backend services**, **microservices**, and **distributed systems**.
 - ⚡ I enjoy building practical demos with **Java**, **Spring**, **Kafka**, **AI** and cloud technologies.
-- 🌱 I'm exploring **Kubernetes**, **reactive programming**, **cloud-native apps**, and **Microsoft Azure**.
+- 🌱 I'm exploring **Kubernetes**, **Reactive programming**, **cloud-native apps**, and **Microsoft Azure**.
 - ✍️ I like sharing examples, notes, and experiments through code.
 - 🧱 I value simple designs, clear APIs, reliable systems, and maintainable code.
 
+---
+
+### ⚡ Technologies
+
+
+#### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring" alt="Spring" />
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt="Sass" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular" alt="Angular" />
+</p>
+
+#### Architecture & Concepts
+<p>
+  <img src="https://img.shields.io/badge/-Microservices-black?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/-Event%20Sourcing-black?style=flat-square" alt="Event Sourcing" />
+  <img src="https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/-Cloud%20Patterns-black?style=flat-square" alt="Cloud Patterns" />
+  <img src="https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apachekafka" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/-Apache%20Flink-black?style=flat-square&logo=apacheflink" alt="Apache Flink" />
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=tensorflow" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=scikitlearn" alt="Machine Learning" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle" alt="Oracle" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" />
+
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-black?style=flat-square&logo=microsoftazure" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/-JIRA-black?style=flat-square&logo=jira" alt="JIRA" />
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode" alt="VS Code" />
+</p>
+
+---
 ---
 ### ⚡ Technologies
 <p dir="auto">Backend:

@@ -2,7 +2,7 @@
 
 **Developer 🔹 Software Architect 🔹 Freelancer 🔹 Blogger**
 
-I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservices**,**Kafka**, **Kubernetes**, **AI** and practical backend systems. I enjoy building clean proof-of-concepts, learning by doing, and turning software architecture ideas into working code.
+I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservices**, **Kafka**, **Kubernetes**, **AI** and practical backend systems. I enjoy building clean proof-of-concepts, learning by doing, and turning software architecture ideas into working code.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Casado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-casado-15b21673/)

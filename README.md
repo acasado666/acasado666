@@ -55,10 +55,10 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-447900?style=flat-square&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Oracle-447911k?style=flat-square&logo=oracle" alt="Oracle" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Oracle-darkred?style=flat-square&logo=oracle" alt="Oracle" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" />
 
 </p>
 

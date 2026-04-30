@@ -27,8 +27,6 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 <p>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&lamp;logo=spring&amp;logoColor=white" alt="Spring" />
-  <img src="https://camo.githubusercontent.com/9e499ce1775395946bf3956670462b95f44a74846295c8c855e1efc890ba809c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-007396?style=flat-square&amp;logo=java" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/bdc3f39c73845b95be0d7b35d47a824e1f59aa75256ad6d8da613e69af874e4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" alt="Spring" data-canonical-src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" style="max-width: 100%;">
 </p>
 
@@ -36,11 +34,11 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular" alt="Angular" />
+  <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular" alt="Angular" />
 </p>
 
 #### Architecture & Concepts
@@ -50,7 +48,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/-Cloud%20Patterns-black?style=flat-square" alt="Cloud Patterns" />
   <img src="https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apachekafka" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/-Apache%20Flink-black?style=flat-square&logo=apacheflink" alt="Apache Flink" />
+  <img src="https://img.shields.io/badge/-Apache%20Flink-lightbluek?style=flat-square&logo=apacheflink" alt="Apache Flink" />
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=tensorflow" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=scikitlearn" alt="Machine Learning" />
 </p>
@@ -68,12 +66,12 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 <p>
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-black?style=flat-square&logo=microsoftazure" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/-JIRA-black?style=flat-square&logo=jira" alt="JIRA" />
+  <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira" alt="JIRA" />
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode" alt="VS Code" />
 </p>

@@ -40,10 +40,10 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 </p>
 
 <p>Architecture & Concepts :
-  <img src="https://img.shields.io/badge/-Microservices-darkblue?style=flat-square" alt="Microservices" />
-  <img src="https://img.shields.io/badge/-Event%20Sourcing-81b0ae?style=flat-square" alt="Event Sourcing" />
+  <img src="https://img.shields.io/badge/-Microservices-4e63b4?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/-Event%20Sourcing-417674?style=flat-square" alt="Event Sourcing" />
   <img src="https://img.shields.io/badge/-Design%20Patterns-96bff9?style=flat-square" alt="Design Patterns" />
-  <img src="https://img.shields.io/badge/-Cloud%20Patterns-yellow?style=flat-square" alt="Cloud Patterns" />
+  <img src="https://img.shields.io/badge/-Cloud%20Patterns-f2f310?style=flat-square" alt="Cloud Patterns" />
 </p>
 <p>Tools :
   <img src="https://camo.githubusercontent.com/f130fef6d0e5754c78bdf3715c6d0f8741092a36087b68cf1c539fc10b45a3c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">
@@ -57,8 +57,8 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/-Apache%20Flink-d9cbec?style=flat-square&logo=apacheflink" alt="Apache Flink" />
 </p>
 <p>Cloud :
-    <img src="https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-6881df?style=flat-square&logo=microsoftazure" alt="Microsoft Azure" />
+    <img src="https://img.shields.io/badge/-Kubernetes-70afee?style=flat-square&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-eea270?style=flat-square&logo=microsoftazure" alt="Microsoft Azure" />
 </p>
 <p>AI & ML : 
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=tensorflow" alt="Artificial Intelligence" />

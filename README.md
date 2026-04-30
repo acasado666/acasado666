@@ -48,7 +48,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/-Cloud%20Patterns-black?style=flat-square" alt="Cloud Patterns" />
   <img src="https://img.shields.io/badge/-Apache%20Kafka-1572B6?style=flat-square&logo=apachekafka" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/-Apache%20Flink-lightbyellow?style=flat-square&logo=apacheflink" alt="Apache Flink" />
+  <img src="https://img.shields.io/badge/-Apache%20Flink-d9cbec?style=flat-square&logo=apacheflink" alt="Apache Flink" />
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=tensorflow" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=scikitlearn" alt="Machine Learning" />
 </p>
@@ -64,7 +64,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 ### Cloud, DevOps & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-black?style=flat-square&logo=microsoftazure" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-6881df?style=flat-square&logo=microsoftazure" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />

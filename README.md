@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Antonio Casado
 
-**🔹 Developer 🔹 Software Architect **
+** 🔹 Developer 🔹 Software Architect  **
 
 I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservices**, **Kafka**, **Kubernetes**, **AI** and practical backend systems. I enjoy building clean proof-of-concepts, learning by doing, and turning software architecture ideas into working code.
 

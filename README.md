@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Antonio Casado
 
-**Developer 🔹 Software Architect 🔹 Freelancer 🔹 Blogger**
+**🔹 Developer 🔹 Software Architect **
 
 I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservices**, **Kafka**, **Kubernetes**, **AI** and practical backend systems. I enjoy building clean proof-of-concepts, learning by doing, and turning software architecture ideas into working code.
 
@@ -14,7 +14,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 - 🔭 I work mainly on **backend services**, **microservices**, and **distributed systems**.
 - ⚡ I enjoy building practical demos with **Java**, **Spring**, **Kafka**, **AI** and cloud technologies.
-- 🌱 I'm exploring **Kubernetes**, **Reactive programming**, **cloud-native apps**, and **Microsoft Azure**.
+- 🌱 I'm exploring **Kubernetes**, **Reactive programming**, **cloud-native apps**, **Flink** and **Microsoft Azure**.
 - ✍️ I like sharing examples, notes, and experiments through code.
 - 🧱 I value simple designs, clear APIs, reliable systems, and maintainable code.
 
@@ -32,13 +32,6 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
 <img src="https://camo.githubusercontent.com/46e34c08524e94c950de2660d45e732baf7d5e3a015ad57477cc6c60873e8626/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
 </p>
-<p>Frontend : 
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Angular-darkred?style=flat-square&logo=angular" alt="Angular" />
-</p>
-
 <p>Architecture & Concepts :
   <img src="https://img.shields.io/badge/-Microservices-4e63b4?style=flat-square" alt="Microservices" />
   <img src="https://img.shields.io/badge/-Event%20Sourcing-417674?style=flat-square" alt="Event Sourcing" />

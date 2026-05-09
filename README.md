@@ -88,12 +88,4 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 ---
 
-## 📊 GitHub Stats
-
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acasado666&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasado666&layout=compact&hide_border=true)
-
----
-
 > Building practical software, one clean service at a time.

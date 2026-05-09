@@ -87,5 +87,4 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 - Clean code, testing, and maintainable software design
 
 ---
-
-> Building practical software, one clean service at a time.
+Building practical software, one clean service at a time.

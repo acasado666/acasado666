@@ -81,9 +81,10 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 - Modern Java backend development
 - Spring and Spring Boot applications
+- Generative AI-Driven Application Development
 - Microservice patterns and distributed architecture
 - Event-driven systems and Kafka
-- Docker, Microsoft Azure, and cloud-native deployment
+- Docker, Microsoft Kubernetes, and cloud-native deployment
 - Clean code, testing, and maintainable software design
 
 ---

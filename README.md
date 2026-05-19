@@ -68,12 +68,12 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 ## 📚 Technical Demos & Samples
 
-- [**cdp-kafka-streaming-api**](https://github.com/acasado666/cdp-kafka-streaming-api) — Kafka Streams demo.
-- [**sample-kafka-AVRO**](https://github.com/acasado666/sample-kafka-AVRO) — Kafka producer/consumer demo using Avro.
-- [**sample-kafka-spring-boot4**](https://github.com/acasado666/sample-kafka-spring-boot4) — Kafka with Spring Boot 4.
+- [**sample-spring-boot-kstreams**](https://github.com/acasado666/sample-spring-boot-kstreams) — Kafka Streams demo.
+- [**sample-tigergraph-database-api**](https://github.com/acasado666/sample-tigergraph-database-api) — Graph Database with AI-Powerred.
 - [**sample-spring-boot4-graphql**](https://github.com/acasado666/sample-spring-boot4-graphql) — Spring Boot GraphQL operations using H2.
 - [**sample-spring-reactive-mongodb**](https://github.com/acasado666/sample-spring-reactive-mongodb) — Reactive CRUD API with Spring WebFlux and MongoDB.
 - [**sample-spring-boot4-poc**](https://github.com/acasado666/sample-spring-boot4-poc) — Spring Boot 4 platform updates and new features.
+- [**sample-kafka-query**](https://github.com/acasado666/sample-kafka-query) — Quering Kafka with Spring Boot.
 
 ---
 

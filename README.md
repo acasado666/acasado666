@@ -13,7 +13,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 ### 🧭 About Me
 
 - 🔭 I work mainly on **backend services**, **microservices**, and **distributed systems**.
-- ⚡ I enjoy building practical demos with **Java**, **Spring**, **Kafka**, **AI** and cloud technologies.
+- ⚡ I enjoy building practical demos with **Java**, **Python**, **Spring**, **Kafka**, **AI** and cloud technologies.
 - 🌱 I'm exploring **Kubernetes**, **Reactive programming**, **cloud-native apps**, **Flink** and **Microsoft Azure**.
 - ✍️ I like sharing examples, notes, and experiments through code.
 - 🧱 I value simple designs, clear APIs, reliable systems, and maintainable code.

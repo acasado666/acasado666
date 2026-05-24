@@ -34,7 +34,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   <img src="https://camo.githubusercontent.com/bdc3f39c73845b95be0d7b35d47a824e1f59aa75256ad6d8da613e69af874e4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" alt="Spring" data-canonical-src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" style="max-width: 100%;">
   
   <img src="https://img.shields.io/pypi/pyversions/:packageName" alt="Python" />
-  
+  [![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
   <img align="right" alt="Python" width="13px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  alt="Spring" data-canonical-src="https://img.shields.io/pypi/pyversions/:packageName)?style=flat-square&amp;logoColor=white" style="max-width: 100%;">
 </p>

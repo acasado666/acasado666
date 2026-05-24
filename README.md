@@ -68,6 +68,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 ## 📚 Technical Demos & Samples
 
+- [**sample-python-kafka**](https://github.com/acasado666/sample-python-kafka) — Kafka Prodducer-Consumer using Python.
 - [**sample-spring-boot-kstreams**](https://github.com/acasado666/sample-spring-boot-kstreams) — Kafka Streams demo.
 - [**sample-tigergraph-database-api**](https://github.com/acasado666/sample-tigergraph-database-api) — Graph Database with AI-Powerred.
 - [**sample-spring-boot4-graphql**](https://github.com/acasado666/sample-spring-boot4-graphql) — Spring Boot GraphQL operations using H2.

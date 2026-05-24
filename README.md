@@ -24,7 +24,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
   https://img.shields.io/pypi/pyversions/:packageName
 
 
-  [![PyPI - Python](https://img.shields.io/pypi/v/iconsdk?label=latest&logo=pypi)](https://pypi.org/project/iconsdk)
+  [![PyPI - latest](https://img.shields.io/pypi/v/iconsdk?label=Python&logo=pypi)](https://pypi.org/project/iconsdk)
 [![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
 
 

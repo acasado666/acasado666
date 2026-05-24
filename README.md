@@ -36,11 +36,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 
 [![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
-    
 
-  
-  <img align="right" alt="Python" width="13px" 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  alt="Spring" data-canonical-src="https://img.shields.io/pypi/pyversions/:packageName)?style=flat-square&amp;logoColor=white" style="max-width: 100%;">
 </p>
 <p>Databases : 
   <img src="https://img.shields.io/badge/-PostgreSQL-e8eaf0?style=flat-square&logo=postgresql" alt="PostgreSQL" />

@@ -25,6 +25,7 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 
 
   [![PyPI - latest](https://img.shields.io/pypi/v/iconsdk?label=Python&logo=pypi)](https://pypi.org/project/iconsdk)
+  [![PyPI - Python](https://img.shields.io/pypi/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
 [![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
 
 

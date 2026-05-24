@@ -21,13 +21,6 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 ---
 
 ### ⚡ Technologies
-
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
-
-https://img.shields.io/pypi/pyversions/:packageName
-
-<img align="left" alt="Python" width="26px" 
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   
 <p>Backend : 
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" alt="Java" />

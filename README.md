@@ -81,6 +81,8 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 ## 🚀 Current Focus
 
 - Modern Java backend development
+- Python development
+- Building pipelines (Kafka, Flink, Spark,..)
 - Spring and Spring Boot applications
 - Generative AI-Driven Application Development
 - Microservice patterns and distributed architecture
@@ -89,4 +91,5 @@ I'm a hands-on software engineer focused on **Java**, **Spring**, **Microservice
 - Clean code, testing, and maintainable software design
 
 ---
-Building practical software, one clean service at a time.
+
+### Building practical software, one clean service at a time.
